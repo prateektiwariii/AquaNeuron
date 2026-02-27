@@ -11,7 +11,7 @@
 
 ---
 
-## 🔬 Project Vision & Impact
+## Project Vision & Impact
 
 **AquaNeuron** is a next-generation water diagnostic platform designed to bridge the gap between high-precision laboratory analysis and low-cost field testing. By combining the molecular selectivity of **DNA Aptamers**, the high carrier mobility of **Graphene Oxide (GO)**, and the pattern-recognition power of **Edge Artificial Intelligence**, we have engineered a system capable of detecting heavy metals and toxic ions simultaneously in under three minutes.
 
@@ -19,7 +19,7 @@ Our mission is to democratize water safety monitoring for the 600 million reside
 
 ---
 
-## 📡 Research Status & Roadmap
+## Research Status & Roadmap
 
 ### **Phase 1: Computational & Analytical Framework (Current Release)**
 The repository currently houses the full **Integrated Simulation Suite** (`aquaneuron.py`). This engine replicates the physics of nanosensor binding, electrical transduction, and AI classification. It has been validated through:
