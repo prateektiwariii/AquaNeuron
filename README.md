@@ -96,15 +96,18 @@ AquaNeuron/
 │   ├── Block IV: Intelligence    # Random Forest Pipeline, PCA, & t-SNE Clustering.
 │   └── Block V: Validation      # Pearson r, R², & Bland-Altman Residual Analysis.
 │
-├── AquaNeuron_SJWP_2026.pdf     # CORE RESEARCH MANUSCRIPT
+├── AquaNeuron.pdf     # CORE RESEARCH MANUSCRIPT
 │                                # Comprehensive 20-page scientific submission.
 │
-├── Simulation_Results/          # DATA VISUALIZATION OUTPUTS
-│   ├── fig1_langmuir.png        # Theoretical binding isotherms ($K_d$ and $Q_{max}$)
-│   ├── fig3_india_risk.png      # Regional risk heatmap based on WHO/BIS datasets
-│   ├── fig4_ai_metrics.png      # Confusion matrices and precision-recall curves
-│   ├── fig5_clustering.png      # t-SNE / PCA Dimensionality Reduction plots
-│   └── fig8_validation.png      # Linear regression vs. ICP-MS reference standard
+├── output/
+│   ├── fig1_isotherms_.png
+│   ├── fig2_sensor_.png
+│   ├── fig3_india_.png
+│   ├── fig4_ai_.png
+│   ├── fig5_comparison_.png
+│   ├── fig6_selectivity_.png
+│   ├── fig7_architecture_.png
+│   └── fig8_validation_.png
 │
 ├── .gitignore                   # Maintenance: Excludes Python cache/local logs.
 └── LICENSE                      # MIT LICENSE: Open Science Permissions.
