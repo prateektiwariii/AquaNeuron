@@ -1,6 +1,6 @@
 # AquaNeuron: A Graphene Oxide Aptamer Nanosensor Array with Edge AI for Simultaneous Multi-Contaminant Groundwater Detection
 
-![AquaNeuron Project Poster 1](AquaNeuron1.png)
+![AquaNeuron Project Poster 1](AquaNeuron1.jpg)
 ![AquaNeuron Project Poster 2](AquaNeuron.png)
 
 **Official Research Supplement — Stockholm Junior Water Prize (SJWP) India 2026**
